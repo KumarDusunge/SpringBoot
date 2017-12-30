@@ -1,0 +1,7 @@
+com\springboot\service\InsertService.class
+com\springboot\daoImpl\InsertDaoImpl.class
+com\springboot\serviceImpl\InsertServiceImpl.class
+com\springboot\dao\InsertDao.class
+com\springboot\app\Application.class
+com\springboot\config\ApplicationConfig.class
+com\springboot\controller\ApplicationController.class
